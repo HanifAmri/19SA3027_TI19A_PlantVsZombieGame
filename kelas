@@ -1,0 +1,52 @@
+Kelas 
+ Kelas Barang
+ Kelas Pelanggan
+ Kelas Jasa
+ kelas Penjualan
+
+Objek :
+  - Kelas Penjualan 
+    Barang_001 (001, Gas 12Kg,Rp... )
+    Barang_002 (002, Gas 3Kg, Rp... )
+    Barang_003 (003, Gas Portable, Rp...)
+
+  - Kelas jasa
+    Jasa_001 (Refil Gas)
+    Jasa_002 (service Kompor)
+  
+Atribut
+  -Kelas barang
+   idbarang(char)
+   namabarang (string)
+   Jumlah (int)
+   harga(int)
+   
+Kelas jasa
+  Idjasa(char)
+  waktu(char)
+
+MetodeKelas 
+ Kelas penjual
+ Kelas Pengguna
+ Kelas admin
+
+Objek
+- Kelas Barang 
+  Barang_001 (001, Gas 12Kg )
+  Barang_002 (002, Gas 3Kg )
+  Barang_003 (003, Gas Portable)
+
+- Kelas jasa
+  Jasa_001 (Refil Gas)
+  Jasa_002 (service Kompor)
+  
+Atribut
+  -Kelas barang
+   idbarang(char)
+   namabarang (string)
+   Jumlah (int)
+   harga(int)
+   
+Kelas jasa
+  Idjasa(char)
+  waktu(char)
